@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# About
+# About us
 
 About
-
-[back](./)
