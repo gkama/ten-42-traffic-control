@@ -21,11 +21,9 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p>
-          {% if site.navigation_show %}
-            {% include navigation.html %}
-          {% endif %}
-        </p>
+        {% if site.navigation_show %}
+          {% include navigation.html %}
+        {% endif %}
 
       </header>
       <section>
