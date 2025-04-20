@@ -6,7 +6,5 @@ description: by Scott Brown
 navigation_show: true
 navigation_title: Navigation
 navigation_items:
-  - title: Home
-    url: /
   - title: About
     url: about.html
