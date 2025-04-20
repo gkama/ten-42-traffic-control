@@ -1,10 +1,13 @@
-title: Ten-42 Traffic Control
+title: TEN-42 TRAFFIC CONTROL
 theme: jekyll-theme-minimal
 logo: /assets/img/test-logo.png
 description: by Scott Brown
+google_analytics:
 
 navigation_show: true
 navigation_title: Navigation
 navigation_items:
+  - title: Home
+    url: ./
   - title: About
     url: about.html
