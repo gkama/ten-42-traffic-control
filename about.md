@@ -4,4 +4,4 @@ layout: default
 
 # About us
 
-About
+A little bit about us. We're a family owned business.
